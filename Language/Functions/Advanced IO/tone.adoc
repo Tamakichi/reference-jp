@@ -40,7 +40,7 @@ subCategories: [ "応用入出力" ]
 
 `frequency`: 音の周波数(Hz) - `unsigned int`
 
-`duration` (任意): 音の出力時間(マイクロ秒) - `unsigned long`
+`duration` (任意): 音の出力時間(ミリ秒) - `unsigned long`
 [%hardbreaks]
 
 [float]
